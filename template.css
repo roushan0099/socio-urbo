@@ -1,0 +1,60 @@
+
+
+/* =============== SECTION TESTIMONIAL =============== */
+.nino-testimonial {
+	background: #f8f8f8;
+	padding: 60px 0;
+}
+.nino-testimonial .unslider-arrow {
+	font-size: 40px;
+	color: #ccc;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	   -moz-transform: translateY(-50%);
+		 -o-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+}
+.nino-testimonialSlider {
+	margin: 0 80px;
+}
+.nino-testimonialSlider .nino-avatar {
+	width: 190px;
+	margin-right: 35px;
+}
+.nino-testimonialSlider .nino-symbol {
+	margin: 0 35px 0 5px;
+}
+.nino-testimonialSlider .nino-symbol .nino-icon {
+	padding: 16px;
+	border: 2px solid #95e1d3;
+	font-size: 65px;
+	color: #95e1d3;
+}
+.nino-testimonialSlider .quote {
+	font-size: 18px;
+	font-weight: 300;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+.nino-testimonialSlider .name {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 18px;
+    position: relative;
+    padding-left: 50px;
+}
+.nino-testimonialSlider .name:after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 40px;
+	height: 2px;
+	background: #f38181;
+	-webkit-transform: translateY(-50%);
+	   -moz-transform: translateY(-50%);
+		 -o-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+}
+/* =============== SECTION BRAND =============== */
